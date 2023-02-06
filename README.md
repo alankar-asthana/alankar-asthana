@@ -24,7 +24,7 @@ class AlankarAsthana():
   def __init__(self):
     self.name = "Alankar Asthana";
     self.username = "alankar21asthana";
-    self.linkedin="[Alankar Asthana | LinkedIn]"  
+    self.linkedin= "[Alankar Asthana | LinkedIn]"(https://www.linkedin.com/in/alankar-asthana/) 
   def __str__(self):
     return self.name
 
