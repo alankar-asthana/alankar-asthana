@@ -10,6 +10,8 @@ Hi I'm Alankar Asthana,  I'm aspiring java developer and problem solver.
 <div align="center">
   	<img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=java&logoColor=c58545&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&labelColor=282828">
+	<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=00599C&labelColor=282828">
+        <img src="https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=data&logoColor=white&labelColor=282828">
 	<img src="https://img.shields.io/badge/-MySQL-98a936?style=for-the-badge&logo=MySQL&logoColor=98a98&labelColor=282828">
 	<img src="https://img.shields.io/badge/-Javascript-98a785?style=for-the-badge&logo=javascript&logoColor=98a78&labelColor=282828">
   	<img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
