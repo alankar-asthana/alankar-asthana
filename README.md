@@ -37,9 +37,9 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://github.com/alankar21asthana">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alankar21asthana&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alankar21asthana&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/alankar-asthana">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=alankar-asthana&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=alankar-asthana&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
